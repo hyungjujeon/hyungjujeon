@@ -1,7 +1,7 @@
 <p>:kr:</p>
 
 <h3>🛠 My Tech Stack 🛠</h3>
-<p>I've ever experienced</p>
+<h6>I've ever experienced</h6>
 
 <p align>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>&nbsp 
@@ -19,4 +19,12 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ROS-FFFFFF"/></a>&nbsp
+</p>
+
+<h3>🖥️ IDE 🖥️</h3>
+<h6>Mainly using IDE</h6>
+<p align>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>&nbsp 
 </p>
